@@ -4,3 +4,5 @@ People have things like cloths, books etc. which they use for a limited amount o
 In corona time, there was too much shortage of Oxygen and people were unable to get the oxygen. So, our website will also help to find where is a good amount of oxygen, so people can check out that hospital.
 
 And because, this is some kind of helping work, we decided the title as HELP.  
+
+I have used technologies HTML, CSS, JavaScript, Bootstrap 4 and PHP to create this website
