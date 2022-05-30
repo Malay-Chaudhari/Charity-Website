@@ -5,4 +5,4 @@ In corona time, there was too much shortage of Oxygen and people were unable to 
 
 And because, this is some kind of helping work, we decided the title as HELP.  
 
-I have used technologies HTML, CSS, JavaScript, Bootstrap 4 and PHP to create this website
+I have used technologies HTML, CSS, JavaScript, Bootstrap 4 and PHP and MySQL to create this website
